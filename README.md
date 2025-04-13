@@ -22,7 +22,7 @@ A modern, responsive portfolio website built with Next.js, React, and Tailwind C
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone <https://github.com/saranyaray/Portfolio>
 cd portfolio
 ```
 
